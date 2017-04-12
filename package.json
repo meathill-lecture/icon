@@ -1,0 +1,24 @@
+{
+  "name": "icon",
+  "version": "1.0.0",
+  "description": "a svg icon builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meathill-lecture/icon.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Meathill",
+    "email": "meathill@gmail.com",
+    "url": "http://meathill.com/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meathill-lecture/icon/issues"
+  },
+  "homepage": "https://github.com/meathill-lecture/icon#readme"
+}

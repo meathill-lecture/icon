@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve" width="160" height="160" viewbox="0 0 160 160">
+  <defs>
+    <style type="text/css">
+      rect {
+        fill: #2C3E50;
+      }
+      text {
+        fill: #FFF;
+        font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","微软雅黑",Arial,sans-serif;
+        font-size: 24px;
+        letter-spacing: .25em;
+        text-anchor: end;
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="160" height="160">
+
+  </rect>
+  <g>
+    <image xlink:href="javascript.svg" x="15" y="15" width="30" height="30"></image>
+    <image xlink:href="css.svg" x="50" y="15" width="30" height="30"></image>
+    <image xlink:href="html.svg" x="85" y="15" width="30" height="30"></image>
+  </g>
+  <text x="140" y="105">肉山</text>
+  <text x="140" y="136">小课堂</text>
+</svg>
