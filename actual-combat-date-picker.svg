@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/css" href="styl/actual-combat-date-picker.css" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" xml:space="preserve" width="1600" height="900" viewbox="0 0 1600 900">
+  <defs>
+  </defs>
+  <rect x="0" y="0" width="1600" height="900" class="background">
+
+  </rect>
+  <filter id="whiteMe">
+    <feColorMatrix
+        type="matrix"
+        values="1 0 0 0 1
+                0 1 0 0 1
+                0 0 1 0 1
+                0 0 0 1 0" />
+  </filter>
+  <filter id="babel-yellow">
+    <feColorMatrix
+        type="matrix"
+        values="0 0 0 0 245/255
+                0 0 0 0 218/255
+                0 0 0 0 85/255
+                0 0 0 1 0" />
+  </filter>
+  <g class="icons" transform="translate(150, 600)">
+    <image xlink:href="svg-logos/svg/javascript.svg" x="0" y="0" width="100" height="200"></image>
+    <image xlink:href="svg-logos/svg/css3.svg" x="120" y="0" width="100" height="200"></image>
+    <image xlink:href="svg-logos/svg/html5.svg" x="240" y="0" width="100" height="200"></image>
+    <image xlink:href="svg-logos/svg/gulp.svg" x="360" y="0" width="100" height="200"></image>
+    <image xlink:href="svg-logos/svg/stylus.svg" x="480" y="0" width="100" height="200"></image>
+    <image xlink:href="svg-logos/svg/webpack.svg" x="600" y="0" width="100" height="200"></image>
+    <image xlink:href="svg-logos/svg/npm.svg" x="720" y="0" width="100" height="200"></image>
+    <image xlink:href="svg-logos/svg/handlebars.svg" x="840" y="0" width="100" height="200"></image>
+    <image xlink:href="simple-icons/icons/github.svg" x="960" y="0" width="100" height="200" filter="url(#whiteMe)"></image>
+    <image xlink:href="source/babel.svg" x="1080" y="0" width="100" height="200" filter="url(#whiteMe)"></image>
+    <image xlink:href="source/mocha.svg" x="1200" y="0" width="100" height="200"></image>
+  </g>
+  <g class="badge" transform="translate(-75, 45) rotate(-45 150 30)">
+    <rect x="0" y="0" width="300" height="60" class="ribbon"></rect>
+    <line stroke-dasharray="6, 4" x1="0" y1="10" x2="300" y2="10" />
+    <line stroke-dasharray="6, 4" x1="0" y1="50" x2="300" y2="50" />
+    <text x="150" y="38">肉山小课堂</text>
+  </g>
+  <text x="800" y="200" class="h2">是时候来场完整项目实战了</text>
+  <text x="800" y="400" class="h1">移动端日历组件开发</text>
+</svg>

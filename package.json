@@ -1,10 +1,11 @@
 {
   "name": "icon",
   "version": "1.0.0",
-  "description": "a svg icon builder",
+  "description": "a svg image builder",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "shot": "phantomjs index.js from.svg to.png w*h"
   },
   "repository": {
     "type": "git",

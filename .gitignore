@@ -1,2 +1,9 @@
 # IDE
 .idea
+
+# output
+*.jpg
+*.png
+
+# build
+styl/*.css

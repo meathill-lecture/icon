@@ -1,0 +1,6 @@
+[submodule "simple-icons"]
+	path = simple-icons
+	url = git@github.com:danleech/simple-icons.git
+[submodule "svg-logos"]
+	path = svg-logos
+	url = git@github.com:prplx/svg-logos.git
