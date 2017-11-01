@@ -42,6 +42,6 @@
     <line stroke-dasharray="6, 4" x1="0" y1="50" x2="300" y2="50" />
     <text x="150" y="38">肉山小课堂</text>
   </g>
-  <text x="800" y="200" class="h2">是时候来场完整项目实战了</text>
-  <text x="800" y="400" class="h1">移动端日历组件开发</text>
+  <text x="800" y="200" class="h2">实战组件开发</text>
+  <text x="800" y="400" class="h1">手机日历组件</text>
 </svg>
