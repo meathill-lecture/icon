@@ -1,0 +1,26 @@
+.background {
+  fill: #2c3e50;
+}
+text {
+  fill: #fff;
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+  letter-spacing: 0.25em;
+  text-anchor: middle;
+}
+.h2 {
+  font-size: 5rem;
+}
+.h1 {
+  font-size: 7.5em;
+  letter-spacing: 0;
+}
+.badge text {
+  font-size: 1.5rem;
+}
+.badge .ribbon {
+  fill: #c0392b;
+}
+.badge line {
+  stroke: #a33025;
+  stroke-width: 2;
+}
